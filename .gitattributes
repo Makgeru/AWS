@@ -1,0 +1,7 @@
+*.js linguist-language=JavaScript
+*.py linguist-language=Python
+*.yaml linguist-language=YAML
+*.yml linguist-language=YAML
+*.json linguist-language=JSON
+*.md linguist-language=Markdown
+*.tf linguist-language=HCL
